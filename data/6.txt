@@ -1,0 +1,17 @@
+General Summary
+This empirical study evaluates the quantitative impact of climate variables on cotton yield in Pakistan. It emphasizes statistical relationships and proposes evidence-based solutions including infrastructure and policy reforms.
+
+Temperature
+An optimal temperature of 28.5°C is ideal for cotton; productivity declines above 32°C, with losses reaching 110 kg/ha. Current summer temperatures often exceed 45°C. Suggested measures include better infrastructure and high-temperature-resistant seed varieties.
+
+Rainfall
+Flooding from monsoons and glacial melt severely damages cotton fields, particularly in Southern Punjab and Sindh. Constructing dams and improving water storage systems are key mitigation strategies.
+
+Humidity
+The role of humidity is not analyzed or supported with data in this report.
+
+Wind Speed
+Wind speed is not mentioned in any context.
+
+Other Factors
+Fertilizer use increases cotton yield but may indirectly contribute to warming. Land expansion and climate-resilient farming practices are necessary for long-term adaptation.
