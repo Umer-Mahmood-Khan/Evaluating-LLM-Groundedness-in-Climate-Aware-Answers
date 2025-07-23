@@ -14,7 +14,7 @@ This project compares the performance of a pure ChatGPT model vs a RAG-augmented
 
 ## 🏗 Screenshots & Visuals
 
-![Architecture Flowchart](images/Recording 2025-07-23 102407)  
+![Architecture Flowchart](images/Recording 2025-07-23 102407.png)  
 *Figure: Streamlit Dashboard*}  
 
 ---
